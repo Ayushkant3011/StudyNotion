@@ -74,6 +74,14 @@ StudyNotion/
 ```
 
 
+### Testing
+
+1. To test the backend of this StudyNotion Project, you can use Postman to test the APIs.
+    ```sh
+    https://documenter.getpostman.com/view/24441701/2s93kz6REm#0cad3bcf-5820-4cfe-834c-ae572f14accd
+    ```
+    Go to this link. This will provide all the APIs to test and check the RBAC implementation.
+
 
 
 
